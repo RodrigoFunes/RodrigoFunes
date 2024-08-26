@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RodrigoFunes
-- 👀 Estoy interesado en encontrar mi primer empleo en IT, donde pueda capacitarme y crecer como developer.
-- 🌱 Actualmente me encuentro realizando la carrera de Software Developer en Apx.
-- 💪🏼 Lenguajes y herramientas que poseo conocimientos: HTML, CSS, JAVASCRIPT, REACT.
+- 👀 Estoy interesado en una nueva oportunidad en IT, donde pueda capacitarme y crecer como developer o en el puesto que se necesite de mi servicio.
+- 🌱 Actualmente me encuentro inscripto para realizar la Tecnicatura Universitaria en Programación en UTN.
 
 
 <!---
